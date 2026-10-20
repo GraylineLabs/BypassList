@@ -1,1 +1,8 @@
-
+{
+  "whitelist": [
+    { "steamid": "76561198171286861", "note": "owner" },
+    { "steamid": "76561190000000001", "note": "example - below the lowest real SteamID, matches nobody" },
+    { "steamid": "76561190000000002", "note": "example - below the lowest real SteamID, matches nobody" },
+    { "steamid": "76561190000000003", "note": "example - below the lowest real SteamID, matches nobody" }
+  ]
+}
