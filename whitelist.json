@@ -1,8 +1,12 @@
 {
   "whitelist": [
     { "steamid": "76561198171286861", "note": "owner" },
-    { "steamid": "76561190000000001", "note": "example - below the lowest real SteamID, matches nobody" },
-    { "steamid": "76561190000000002", "note": "example - below the lowest real SteamID, matches nobody" },
-    { "steamid": "76561190000000003", "note": "example - below the lowest real SteamID, matches nobody" }
+    { "steamid": "76561199035826500", "note": "Nailz" },
+    { "steamid": "76561198158113813", "note": "Ash" },
+    { "steamid": "76561198863973216", "note": "Wufee" },
+    { "steamid": "76561199083796215", "note": "ZacHarmless" },
+    { "steamid": "76561199141768435", "note": "VanDeKai" },
+    { "steamid": "76561198276501990", "note": "Pootis" },
+    { "steamid": "76561199310138981", "note": "Its.Mars33" }
   ]
 }
